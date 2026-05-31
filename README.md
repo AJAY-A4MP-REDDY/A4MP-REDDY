@@ -27,20 +27,19 @@ A premium, next-generation AI platform featuring an interactive AI Voice Agent, 
 Here are the visual highlights and interface previews of the platform:
 
 <p align="center">
-  <img src="Screenshot_20260531_165951_1.jpg" width="30%" alt="Dashboard Home">
-  <img src="Screenshot_20260531_165957_1.jpg" width="30%" alt="Stats View">
-  <img src="Screenshot_20260531_170008_1.jpg" width="30%" alt="Vision Module">
+  <img src="Screenshot_20260531_165951_2.jpg" width="30%" alt="Dashboard Home">
+  <img src="Screenshot_20260531_165957_2.jpg" width="30%" alt="Stats View">
+  <img src="Screenshot_20260531_170008_2.jpg" width="30%" alt="Vision Module">
 </p>
 
 <p align="center">
-  <img src="Screenshot_20260531_170012_1.jpg" width="30%" alt="Language Module">
-  <img src="Screenshot_20260531_170019_1.jpg" width="30%" alt="Voice Core">
-  <img src="Screenshot_20260531_170024_1.jpg" width="30%" alt="Voice Listening">
+  <img src="Screenshot_20260531_170012_2.jpg" width="30%" alt="Language Module">
+  <img src="Screenshot_20260531_170019_2.jpg" width="30%" alt="Voice Core">
+  <img src="Screenshot_20260531_170024_2.jpg" width="30%" alt="Voice Listening">
 </p>
 
 <p align="center">
-  <img src="Screenshot_20260531_170027_1.jpg" width="30%" alt="Chat Box">
-  <img src="Screenshot_20260531_170032_1.jpg" width="30%" alt="Weather Section">
-  <img src="Screenshot_20260531_170036_1.jpg" width="30%" alt="Weather Localized">
+  <img src="Screenshot_20260531_170027_2.jpg" width="30%" alt="Chat Box">
+  <img src="Screenshot_20260531_170032_2.jpg" width="30%" alt="Weather Section">
+  <img src="Screenshot_20260531_170036_2.jpg" width="30%" alt="Weather Localized">
 </p>
-
